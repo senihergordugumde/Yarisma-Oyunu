@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 1
   m_EditorClassIdentifier: 
   question: "Hangisi Jupiterin uydusu de\u011Fildir?\n"
+  answers:
+  - 
+  - 
+  - 
+  - 
+  correctAnswerIndex: 0
