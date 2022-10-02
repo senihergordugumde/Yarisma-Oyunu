@@ -1198,6 +1198,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   questionText: {fileID: 615611988}
   question: {fileID: 11400000, guid: 3741702645e644311826cc203ee2adc0, type: 2}
+  answerButtons:
+  - {fileID: 1036481311}
+  - {fileID: 647726847}
+  - {fileID: 816626543}
+  - {fileID: 738172457}
 --- !u!1 &1036481311
 GameObject:
   m_ObjectHideFlags: 0
